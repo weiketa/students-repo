@@ -1,3 +1,6 @@
 [submodule "party-bid/liyang"]
 	path = party-bid/liyang
 	url = git@github.com:weiketa/party_bid
+[submodule "party-bid/YuZejiang"]
+	path = party-bid/YuZejiang
+	url = https://github.com/trotyl/Party-Bid.git

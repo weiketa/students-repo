@@ -7,3 +7,6 @@
 [submodule "POS-machine/YuZejiang"]
 	path = POS-machine/YuZejiang
 	url = https://github.com/trotyl/Pos-JavaScript.git
+[submodule "TDD/YuZejiang"]
+	path = TDD/YuZejiang
+	url = https://github.com/trotyl/guess-game.git

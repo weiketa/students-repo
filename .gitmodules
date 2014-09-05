@@ -10,3 +10,6 @@
 [submodule "TDD/YuZejiang"]
 	path = TDD/YuZejiang
 	url = https://github.com/trotyl/guess-game.git
+[submodule "three-data-structures/YuZejiang"]
+	path = three-data-structures/YuZejiang
+	url = https://github.com/trotyl/party_bid_core.git

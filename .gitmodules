@@ -4,3 +4,6 @@
 [submodule "party-bid/YuZejiang"]
 	path = party-bid/YuZejiang
 	url = https://github.com/trotyl/Party-Bid.git
+[submodule "POS-machine/YuZejiang"]
+	path = POS-machine/YuZejiang
+	url = https://github.com/trotyl/Pos-JavaScript.git

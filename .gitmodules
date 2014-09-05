@@ -1,0 +1,3 @@
+[submodule "party-bid/liyang"]
+	path = party-bid/liyang
+	url = git@github.com:weiketa/party_bid

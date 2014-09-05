@@ -1,0 +1,1 @@
+按照在party-bid路径下submodule的例子，添加自己的git库到对应的文件夹里

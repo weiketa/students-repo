@@ -37,3 +37,12 @@
 [submodule "three-data-structures/MaoNingchuan"]
 	path = three-data-structures/MaoNingchuan
 	url = https://github.com/minchina/party_bid_core.git
+[submodule "party-bid/ZhouYong"]
+	path = party-bid/ZhouYong
+	url = https://github.com/ZhouYong10/partyBid.git
+[submodule "three-data-structures/zhouyong"]
+	path = three-data-structures/zhouyong
+	url = https://github.com/ZhouYong10/party_bid_core.git
+[submodule "node-web-pos/zhouyong"]
+	path = node-web-pos/zhouyong
+	url = https://github.com/ZhouYong10/Pos.git

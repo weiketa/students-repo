@@ -46,3 +46,6 @@
 [submodule "node-web-pos/zhouyong"]
 	path = node-web-pos/zhouyong
 	url = https://github.com/ZhouYong10/Pos.git
+[submodule "node-web-pos/YuZejiang"]
+	path = node-web-pos/YuZejiang
+	url = https://github.com/trotyl/Pos-Node.git

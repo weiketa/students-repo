@@ -31,3 +31,6 @@
 [submodule "party-bid/MaoNingchuan"]
 	path = party-bid/MaoNingchuan
 	url = https://github.com/minchina/party_bid_new.git
+[submodule "POS-machine/MaoNingchuan"]
+	path = POS-machine/MaoNingchuan
+	url = https://github.com/minchina/pos.git

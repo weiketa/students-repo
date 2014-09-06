@@ -13,3 +13,6 @@
 [submodule "three-data-structures/YuZejiang"]
 	path = three-data-structures/YuZejiang
 	url = https://github.com/trotyl/party_bid_core.git
+[submodule "party-bid/Liuqi"]
+	path = party-bid/Liuqi
+	url = git@github.com:liuqi8839/partybid.git

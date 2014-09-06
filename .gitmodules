@@ -52,3 +52,6 @@
 [submodule "jquery-web-pos/Liuqi"]
 	path = jquery-web-pos/Liuqi
 	url = git@github.com:liuqi8839/web-pos.git
+[submodule "jquery-web-pos/YuZejiang"]
+	path = jquery-web-pos/YuZejiang
+	url = https://github.com/trotyl/Pos-Web.git

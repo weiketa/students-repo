@@ -25,3 +25,6 @@
 [submodule "web-pos/Liuqi"]
 	path = web-pos/Liuqi
 	url = git@github.com:liuqi8839/web-pos.git
+[submodule "angular-web-pos/Liuqi"]
+	path = angular-web-pos/Liuqi
+	url = git@github.com:liuqi8839/angular-web-pos.git

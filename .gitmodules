@@ -28,3 +28,6 @@
 [submodule "angular-web-pos/Liuqi"]
 	path = angular-web-pos/Liuqi
 	url = git@github.com:liuqi8839/angular-web-pos.git
+[submodule "party-bid/MaoNingchuan"]
+	path = party-bid/MaoNingchuan
+	url = https://github.com/minchina/party_bid_new.git

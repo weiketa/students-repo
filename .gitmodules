@@ -19,3 +19,6 @@
 [submodule "three-data-structures/Liuqi"]
 	path = three-data-structures/Liuqi
 	url = git@github.com:liuqi8839/part_bid_core.git
+[submodule "POS-machine/Liuqi"]
+	path = POS-machine/Liuqi
+	url = git@github.com:liuqi8839/pos.git

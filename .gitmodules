@@ -55,3 +55,6 @@
 [submodule "jquery-web-pos/YuZejiang"]
 	path = jquery-web-pos/YuZejiang
 	url = https://github.com/trotyl/Pos-Web.git
+[submodule "angular-web-pos/YuZejiang"]
+	path = angular-web-pos/YuZejiang
+	url = https://github.com/trotyl/Pos-Angular.git

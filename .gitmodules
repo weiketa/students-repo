@@ -61,3 +61,6 @@
 [submodule "angular-web-pos/MaoNingchuan"]
 	path = angular-web-pos/MaoNingchuan
 	url = https://github.com/minchina/webpos_angular.git
+[submodule "jquery-web-pos/MaoNingchuan"]
+	path = jquery-web-pos/MaoNingchuan
+	url = https://github.com/minchina/webpos.git

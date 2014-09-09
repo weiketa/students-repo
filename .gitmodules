@@ -58,3 +58,6 @@
 [submodule "angular-web-pos/YuZejiang"]
 	path = angular-web-pos/YuZejiang
 	url = https://github.com/trotyl/Pos-Angular.git
+[submodule "angular-web-pos/MaoNingchuan"]
+	path = angular-web-pos/MaoNingchuan
+	url = https://github.com/minchina/webpos_angular.git

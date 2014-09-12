@@ -67,3 +67,6 @@
 [submodule "node-web-pos/MaoNingchuan"]
 	path = node-web-pos/MaoNingchuan
 	url = https://github.com/minchina/node_webpos.git
+[submodule "party-bid/XuTenghao"]
+	path = party-bid/XuTenghao
+	url = https://github.com/d0ln/partyBid

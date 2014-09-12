@@ -64,3 +64,6 @@
 [submodule "jquery-web-pos/MaoNingchuan"]
 	path = jquery-web-pos/MaoNingchuan
 	url = https://github.com/minchina/webpos.git
+[submodule "node-web-pos/MaoNingchuan"]
+	path = node-web-pos/MaoNingchuan
+	url = https://github.com/minchina/node_webpos.git

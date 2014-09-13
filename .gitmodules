@@ -73,3 +73,6 @@
 [submodule "jquery-web-pos/徐腾浩"]
 	path = jquery-web-pos/徐腾浩
 	url = https://github.com/d0ln/d0ln_pos
+[submodule "party-bid/DuZhongwen"]
+	path = party-bid/DuZhongwen
+	url = git@github.com:Duzhongwen/party_bid.git

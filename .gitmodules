@@ -82,3 +82,6 @@
 [submodule "jquery-web-pos/DuZhongwen"]
 	path = jquery-web-pos/DuZhongwen
 	url = git@github.com:Duzhongwen/Webpos-.git
+[submodule "angular-web-pos/DuZhongwen"]
+	path = angular-web-pos/DuZhongwen
+	url = git@github.com:Duzhongwen/webdd.git

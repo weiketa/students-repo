@@ -79,3 +79,6 @@
 [submodule "three-data-structures/DuZhongwen"]
 	path = three-data-structures/DuZhongwen
 	url = git@github.com:Duzhongwen/three_party_bid_core.git
+[submodule "jquery-web-pos/DuZhongwen"]
+	path = jquery-web-pos/DuZhongwen
+	url = git@github.com:Duzhongwen/Webpos-.git

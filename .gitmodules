@@ -76,3 +76,6 @@
 [submodule "party-bid/DuZhongwen"]
 	path = party-bid/DuZhongwen
 	url = git@github.com:Duzhongwen/party_bid.git
+[submodule "three-data-structures/DuZhongwen"]
+	path = three-data-structures/DuZhongwen
+	url = git@github.com:Duzhongwen/three_party_bid_core.git

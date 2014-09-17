@@ -118,3 +118,6 @@
 [submodule "POS-machine/zhangke"]
 	path = POS-machine/zhangke
 	url = https://github.com/zhangkehbg/Pos_v2
+[submodule "TDD/zhangke"]
+	path = TDD/zhangke
+	url = https://github.com/zhangkehbg/guess_number

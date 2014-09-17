@@ -109,3 +109,6 @@
 [submodule "three-data-structures/zhangke"]
 	path = three-data-structures/zhangke
 	url = https://github.com/zhangkehbg/party_bid_core
+[submodule "angular-web-pos/zhangke"]
+	path = angular-web-pos/zhangke
+	url = https://github.com/zhangkehbg/web_pos_angularJs

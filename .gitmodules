@@ -88,3 +88,9 @@
 [submodule "party-bid/zhangtao"]
 	path = party-bid/zhangtao
 	url = https://github.com/zhangtiny123/party_bid_version1.git
+[submodule "POS-machine/TDD-pos_machine"]
+	path = POS-machine/TDD-pos_machine
+	url = https://github.com/zhangtiny123/TDD-pos_machine.git
+[submodule "POS-machine/zhangtao"]
+	path = POS-machine/zhangtao
+	url = https://github.com/zhangtiny123/TDD-pos_machine.git

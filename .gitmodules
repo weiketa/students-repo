@@ -112,3 +112,6 @@
 [submodule "angular-web-pos/zhangke"]
 	path = angular-web-pos/zhangke
 	url = https://github.com/zhangkehbg/web_pos_angularJs
+[submodule "jquery-web-pos/zhangke"]
+	path = jquery-web-pos/zhangke
+	url = https://github.com/zhangkehbg/web_pos

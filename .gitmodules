@@ -85,3 +85,6 @@
 [submodule "angular-web-pos/DuZhongwen"]
 	path = angular-web-pos/DuZhongwen
 	url = git@github.com:Duzhongwen/webdd.git
+[submodule "party-bid/zhangtao"]
+	path = party-bid/zhangtao
+	url = https://github.com/zhangtiny123/party_bid_version1.git

@@ -121,3 +121,6 @@
 [submodule "TDD/zhangke"]
 	path = TDD/zhangke
 	url = https://github.com/zhangkehbg/guess_number
+[submodule "party-bid/JiangJianQun"]
+	path = party-bid/JiangJianQun
+	url = git@github.com:zhh1/PartyBid.git

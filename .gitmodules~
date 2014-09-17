@@ -91,3 +91,18 @@
 [submodule "party-bid/zhangtao"]
 	path = party-bid/zhangtao
 	url = https://github.com/zhangtiny123/party_bid_version1.git
+[submodule "POS-machine/TDD-pos_machine"]
+	path = POS-machine/TDD-pos_machine
+	url = https://github.com/zhangtiny123/TDD-pos_machine.git
+[submodule "POS-machine/zhangtao"]
+	path = POS-machine/zhangtao
+	url = https://github.com/zhangtiny123/TDD-pos_machine.git
+[submodule "angular-web-pos/zhangtao"]
+	path = angular-web-pos/zhangtao
+	url = https://github.com/zhangtiny123/angular_webpos.git
+[submodule "jquery-web-pos/zhangtao"]
+	path = jquery-web-pos/zhangtao
+	url = https://github.com/zhangtiny123/web_pos_jQuery.git
+[submodule "three-data-structures/zhangtao"]
+	path = three-data-structures/zhangtao
+	url = https://github.com/zhangtiny123/party_bid_core.git

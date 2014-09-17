@@ -106,3 +106,6 @@
 [submodule "three-data-structures/zhangtao"]
 	path = three-data-structures/zhangtao
 	url = https://github.com/zhangtiny123/party_bid_core.git
+[submodule "three-data-structures/zhangke"]
+	path = three-data-structures/zhangke
+	url = https://github.com/zhangkehbg/party_bid_core

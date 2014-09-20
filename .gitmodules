@@ -124,9 +124,6 @@
 [submodule "party-bid/JiangJianQun"]
 	path = party-bid/JiangJianQun
 	url = git@github.com:zhh1/PartyBid.git
-[submodule "party_bid/Yexiaoke"]
-	path = party_bid/Yexiaoke
-	url = https://github.com/Pollyanna111/party_bid.git
 [submodule "party-bid/Yexiaoke"]
 	path = party-bid/Yexiaoke
 	url = https://github.com/Pollyanna111/party_bid.git

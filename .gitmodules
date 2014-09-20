@@ -145,3 +145,6 @@
 [submodule "three-data-structures/JiangJianqun"]
 	path = three-data-structures/JiangJianqun
 	url = git@github.com:zhh1/partybidcore.git
+[submodule "TDD/JiangJianqun"]
+	path = TDD/JiangJianqun
+	url = https://github.com/zhh1/TDD.git

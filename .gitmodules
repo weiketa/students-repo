@@ -133,3 +133,6 @@
 [submodule "jquery-web-pos/Yexiaoke"]
 	path = jquery-web-pos/Yexiaoke
 	url = https://github.com/Pollyanna111/pos_of_Web.git
+[submodule "three-data-structures/Yexiaoke"]
+	path = three-data-structures/Yexiaoke
+	url = https://github.com/Pollyanna111/three_types_of_data_structure

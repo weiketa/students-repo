@@ -136,3 +136,6 @@
 [submodule "three-data-structures/Yexiaoke"]
 	path = three-data-structures/Yexiaoke
 	url = https://github.com/Pollyanna111/three_types_of_data_structure
+[submodule "POS-machine/Yexiaoke"]
+	path = POS-machine/Yexiaoke
+	url = https://github.com/Pollyanna111/pos_practice

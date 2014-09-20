@@ -130,3 +130,6 @@
 [submodule "angular-web-pos/Yexiaoke"]
 	path = angular-web-pos/Yexiaoke
 	url = https://github.com/Pollyanna111/web_pos_by_Angular
+[submodule "jquery-web-pos/Yexiaoke"]
+	path = jquery-web-pos/Yexiaoke
+	url = https://github.com/Pollyanna111/pos_of_Web.git

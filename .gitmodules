@@ -142,3 +142,6 @@
 [submodule "TDD/yexiaoke"]
 	path = TDD/yexiaoke
 	url = https://github.com/Pollyanna111/learn_to_use_jasmine.git
+[submodule "three-data-structures/JiangJianqun"]
+	path = three-data-structures/JiangJianqun
+	url = git@github.com:zhh1/partybidcore.git

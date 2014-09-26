@@ -148,3 +148,18 @@
 [submodule "TDD/JiangJianqun"]
 	path = TDD/JiangJianqun
 	url = https://github.com/zhh1/TDD.git
+[submodule "node-web-pos/zhangtao"]
+	path = node-web-pos/zhangtao
+	url = git@github.com:zhangtiny123/node_webpos.git
+[submodule "node-web-pos/zhangke"]
+	path = node-web-pos/zhangke
+	url = git@github.com:zhangkehbg/web_pos_node.git
+[submodule "node-web-pos/Liuqi"]
+	path = node-web-pos/Liuqi
+	url = git@github.com:liuqi8839/node-pos.git
+[submodule "weapon-evolution/YuZeJiang"]
+	path = weapon-evolution/YuZeJiang
+	url = git@github.com:trotyl/Weapon-Evolution.git
+[submodule "node-web-pos/YuZejiang-new"]
+	path = node-web-pos/YuZejiang-new
+	url = git@github.com:trotyl/Pos-Node-Jade.git

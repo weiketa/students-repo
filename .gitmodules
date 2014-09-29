@@ -48,7 +48,7 @@
 	url = https://github.com/ZhouYong10/Pos.git
 [submodule "node-web-pos/YuZejiang"]
 	path = node-web-pos/YuZejiang
-	url = https://github.com/trotyl/Pos-Node.git
+	url = https://github.com/trotyl/Pos-Node-Jade.git
 [submodule "jquery-web-pos/Liuqi"]
 	path = jquery-web-pos/Liuqi
 	url = git@github.com:liuqi8839/web-pos.git

@@ -124,9 +124,6 @@
 [submodule "party-bid/JiangJianQun"]
 	path = party-bid/JiangJianQun
 	url = git@github.com:zhh1/PartyBid.git
-[submodule "angular-web-pos/Yexiaoke"]
-	path = angular-web-pos/Yexiaoke
-	url = https://github.com/Pollyanna111/web_pos_by_Angular
 [submodule "jquery-web-pos/Yexiaoke"]
 	path = jquery-web-pos/Yexiaoke
 	url = https://github.com/Pollyanna111/pos_of_Web.git

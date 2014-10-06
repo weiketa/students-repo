@@ -160,3 +160,6 @@
 [submodule "party-bid/Anna"]
 	path = party-bid/Anna
 	url = https://github.com/Pollyanna111/new_party_bid
+[submodule "angular-web-pos/Anna"]
+	path = angular-web-pos/Anna
+	url = https://github.com/Pollyanna111/angular-web-pos.git

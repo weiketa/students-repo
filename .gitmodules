@@ -163,3 +163,6 @@
 [submodule "node-web-pos/YuZejiang-new"]
 	path = node-web-pos/YuZejiang-new
 	url = git@github.com:trotyl/Pos-Node-Jade.git
+[submodule "party-bid/Anna"]
+	path = party-bid/Anna
+	url = https://github.com/Pollyanna111/new_party_bid

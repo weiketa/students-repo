@@ -166,3 +166,6 @@
 [submodule "POS-machine/wushengyu"]
 	path = POS-machine/wushengyu
 	url = https://github.com/ShadowWood/pos.git
+[submodule "angular-web-pos/wushengyu"]
+	path = angular-web-pos/wushengyu
+	url = https://github.com/ShadowWood/web-pos-angular.git

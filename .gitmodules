@@ -169,3 +169,6 @@
 [submodule "angular-web-pos/wushengyu"]
 	path = angular-web-pos/wushengyu
 	url = https://github.com/ShadowWood/web-pos-angular.git
+[submodule "jquery-web-pos/wushengyu"]
+	path = jquery-web-pos/wushengyu
+	url = https://github.com/ShadowWood/web-pos-jquery.git

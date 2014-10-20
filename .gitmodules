@@ -163,3 +163,6 @@
 [submodule "angular-web-pos/Anna"]
 	path = angular-web-pos/Anna
 	url = https://github.com/Pollyanna111/angular-web-pos.git
+[submodule "POS-machine/wushengyu"]
+	path = POS-machine/wushengyu
+	url = https://github.com/ShadowWood/pos.git

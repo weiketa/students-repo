@@ -172,3 +172,6 @@
 [submodule "jquery-web-pos/wushengyu"]
 	path = jquery-web-pos/wushengyu
 	url = https://github.com/ShadowWood/web-pos-jquery.git
+[submodule "sales-taxes/YuZejiang"]
+	path = sales-taxes/YuZejiang
+	url = https://github.com/trotyl/Sales-Taxes.git

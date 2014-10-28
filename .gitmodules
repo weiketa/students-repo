@@ -46,9 +46,6 @@
 [submodule "node-web-pos/zhouyong"]
 	path = node-web-pos/zhouyong
 	url = https://github.com/ZhouYong10/Pos.git
-[submodule "node-web-pos/YuZejiang"]
-	path = node-web-pos/YuZejiang
-	url = https://github.com/trotyl/Pos-Node-Jade.git
 [submodule "jquery-web-pos/Liuqi"]
 	path = jquery-web-pos/Liuqi
 	url = git@github.com:liuqi8839/web-pos.git
@@ -154,8 +151,8 @@
 [submodule "weapon-evolution/YuZeJiang"]
 	path = weapon-evolution/YuZeJiang
 	url = git@github.com:trotyl/Weapon-Evolution.git
-[submodule "node-web-pos/YuZejiang-new"]
-	path = node-web-pos/YuZejiang-new
+[submodule "node-web-pos/YuZejiang"]
+	path = node-web-pos/YuZejiang
 	url = git@github.com:trotyl/Pos-Node-Jade.git
 [submodule "party-bid/Anna"]
 	path = party-bid/Anna

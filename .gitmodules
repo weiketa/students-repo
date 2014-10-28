@@ -151,8 +151,8 @@
 [submodule "weapon-evolution/YuZeJiang"]
 	path = weapon-evolution/YuZeJiang
 	url = git@github.com:trotyl/Weapon-Evolution.git
-[submodule "node-web-pos/YuZejiang"]
-	path = node-web-pos/YuZejiang
+[submodule "node-web-pos/YuZejiang-new"]
+	path = node-web-pos/YuZejiang-new
 	url = git@github.com:trotyl/Pos-Node-Jade.git
 [submodule "party-bid/Anna"]
 	path = party-bid/Anna
